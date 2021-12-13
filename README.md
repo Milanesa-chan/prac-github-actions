@@ -1,7 +1,7 @@
 # \[Practice] GitHub Actions
 Practice project. Following a GitHub actions tutorial.
 
-Video: https://www.youtube.com/watch?v=R8_veQiYBjI
+Video: https://www.youtube.com/watch?v=R8_veQiYBjI 
 
 Docker Repo: https://hub.docker.com/repository/docker/milanesachan/prac-github-actions
 
